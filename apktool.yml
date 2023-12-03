@@ -1,0 +1,75 @@
+version: 2.9.0
+apkFileName: baozoutruya.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 9
+  targetSdkVersion: 22
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 1
+  versionName: 1.0
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- resources.arsc
+- assets/Audio/Sound.rs
+- assets/Controllers/Controller.rs
+- assets/Controllers/OverrideController.rs
+- assets/Data/Data.rs
+- assets/Effects/Effect.rs
+- assets/Model/Boy.rs
+- assets/Model/Girl.rs
+- assets/Model/Gonggaopai.rs
+- assets/Model/Mail.rs
+- assets/Model/MaoQizi.rs
+- assets/Model/Maoshu.rs
+- assets/Model/Mayors.rs
+- assets/Model/Paihangbang.rs
+- assets/Model/PlayerBoy.rs
+- assets/Model/PlayerGril.rs
+- assets/Model/ShoesShoper.rs
+- assets/Model/TiresShoper.rs
+- assets/Model/WeaponShoper.rs
+- assets/Model/clothingshop.rs
+- assets/Model/cuttlefish_Front.rs
+- assets/Model/Cloths/Clothes.rs
+- assets/Model/Equips/Equips.rs
+- assets/Model/Monsters/Box.rs
+- assets/Model/Monsters/Box001.rs
+- assets/Model/Monsters/FlyTrigger.rs
+- assets/Model/Monsters/FubenGuider.rs
+- assets/Model/Monsters/Gold.rs
+- assets/Model/Monsters/Monster_BlueBallon.rs
+- assets/Model/Monsters/Monster_GreenBallon.rs
+- assets/Model/Monsters/Monster_Juicer.rs
+- assets/Model/Monsters/Monster_Qiqiu.rs
+- assets/Model/Monsters/Monster_Squid1.rs
+- assets/Model/Monsters/Monster_Squid2.rs
+- assets/Model/Monsters/Monster_Squid_Mu.rs
+- assets/Model/Monsters/Monster_Xiangzi.rs
+- assets/Model/Shoes/Shoes.rs
+- assets/Model/Tires/Tires.rs
+- assets/Scenes/Fuben.rs
+- assets/Scenes/Xinshou.rs
+- assets/UI/AlwaysIn.rs
+- assets/UI/Fight.rs
+- assets/UI/Guider.rs
+- assets/UI/Icon.rs
+- assets/UI/Main.rs
+- assets/UI/PaintTextures.rs
+- assets/UI/Start.rs
+- assets/bin/Data/861a652cacc3ad24e8a60b9e390c15f6.resource
+- png
+- assets/ucgamesdk/config/sdk_info.txt
+- assets/ucgamesdk/config/service_config.json
+- assets/ucgamesdk/config/statcost_filter.ini
+- assets/ucgamesdk/res/apk.list
+- assets/ucgamesdk/ui/UC_18.zip
+- assets/ucgamesdk/ui/common/jars/entry.xml
